@@ -1,0 +1,15 @@
+.box {
+    float:;
+    width: 70px;
+    height: 85px;
+    background-color: #ffff00;
+    transition-property: width, background-color;
+    transition-duration: 1s;
+    
+}
+
+.box:hover {
+    width: 200px;
+    height: 200px;
+    background-color: #000;
+}
