@@ -5,6 +5,7 @@
     background-color: #ffff00;
     transition-property: width, background-color;
     transition-duration: 1s;
+    transition-timing-function: ease-in-out; /* www.matthewlein.com/tools/ceaser */
     
 }
 
