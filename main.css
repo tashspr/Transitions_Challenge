@@ -8,9 +8,21 @@
     transition-timing-function: ease-in-out; /* www.matthewlein.com/tools/ceaser */
     
 }
+ /* try other easings:
+     	linear
+			ease
+			ease-in
+			ease-out
+			ease-in-out
+			step-start
+			step-end
+		*/
 
 .box:hover {
     width: 200px;
     height: 200px;
-    background-color: #000;
+    background-color:  #e84610;
+    
 }
+
+
